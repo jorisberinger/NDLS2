@@ -1,0 +1,7 @@
+image:
+  file: Dockerfile
+ports:
+  - port: 8080
+vscode:
+  extensions:
+    - vscjava.vscode-java-test@0.24.1:adMLnibuhohxpDp7AmLe9g==
