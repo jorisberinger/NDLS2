@@ -13,5 +13,6 @@ public class AppTest {
     }
     @Test public void fails(){
         assertEquals(1, 2);
+        assertEquals(1, 1);
     }
 }
