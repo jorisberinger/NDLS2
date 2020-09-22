@@ -1,4 +1,4 @@
-FROM openjdk:16-jdk
+FROM ubuntu:latest
 
 # COPY --chown=gitpod ./app .
 
