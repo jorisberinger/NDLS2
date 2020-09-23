@@ -4,4 +4,4 @@ ports:
   - port: 8080
 vscode:
   extensions:
-    - vscjava.vscode-java-test@0.24.1:adMLnibuhohxpDp7AmLe9g==
+    - richardwillis.vscode-gradle@3.4.5:B2vmhZgD8MLEDUhBq10bxQ==

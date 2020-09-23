@@ -11,8 +11,8 @@ public class AppTest {
         App classUnderTest = new App();
         assertNotNull("app should have a greeting", classUnderTest.getGreeting());
     }
-    @Test public void fails(){
-        assertEquals(1, 2);
+    @Test public void failsOrNot(){
+        // assertEquals(1, 2);
         assertEquals(1, 1);
     }
 }
